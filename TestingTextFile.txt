@@ -1,5 +1,5 @@
 1st commit
 
-feat-testingtextfile branch 2nd commit
+feat-testingtextfile branch 2nd commit / 2nd commit main branch, possible conflict - merge solved :o)
 
 feat-testingtextfile branch 3rd commit
